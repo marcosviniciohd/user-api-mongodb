@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://<usuario>:<senha>@cluster0.ildju.mongodb.net/
+      database: user-api
